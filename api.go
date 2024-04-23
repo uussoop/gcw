@@ -1,4 +1,4 @@
-package gocachewrapped
+package gcw
 
 import (
 	"time"
